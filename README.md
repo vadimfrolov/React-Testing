@@ -5,6 +5,8 @@ Thanks to team Cypress for this real world demo app ❤️
 
 <a href="https://github.com/cypress-io/cypress-realworld-app">Original repo</a>
 
+<img alt="image" src="ezgif-6-94bd39440c9b.gif"> </img>
+
 ### Installation
 
 ```shell
